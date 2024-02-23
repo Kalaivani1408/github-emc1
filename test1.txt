@@ -1,1 +1,2 @@
 created on file name as text1.tx
+hello world we are gng to learn git
